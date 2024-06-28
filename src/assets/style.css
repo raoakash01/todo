@@ -223,6 +223,7 @@
   
     .task-input button {
       width: 100%;
+      margin: auto;
     }
   
     .task-list li {
